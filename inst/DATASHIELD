@@ -1,0 +1,11 @@
+AggregateMethods:
+    coxphSLMADS,
+    coxphSummaryDS,
+    cox.zphSLMADS,
+    summarySurvDS,
+    plotsurvfitDS,
+    vcovDS.coxph
+AssignMethods:
+    coxphSLMAassignDS,
+    SurvDS,
+    survfitDS
